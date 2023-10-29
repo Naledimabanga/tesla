@@ -1,2 +1,2 @@
-linkj to my project
+link to my project
 https://website-zaio-portfolio.netlify.app/
